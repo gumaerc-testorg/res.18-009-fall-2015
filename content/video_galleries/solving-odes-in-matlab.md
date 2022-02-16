@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Solving ODEs in MATLAB
 uid: 8ee92c27-f02b-fd86-d262-9f4ce23755ef
 videos:
@@ -20,8 +22,8 @@ videos:
   website: res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
 ---
 
-Solving ODEs in MATLAB®
------------------------
+Solving ODEs in MATLAB{{< sup "®" >}}
+-------------------------------------
 
 [Cleve Moler](http://www.mathworks.com/company/aboutus/founders/clevemoler.html) introduces computation for differential equations and explains the MATLAB ODE suite and its mathematical background. The video series starts with Euler method and builds up to Runge Kutta and includes hands-on MATLAB exercises.
 

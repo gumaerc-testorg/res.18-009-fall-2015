@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Equations
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Integrating Factor for a Varying Rate
 uid: b2cf8433-dcf0-04bb-45ce-772f7ef6ea03
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_1_6b_Solve_By_Integrating_Factor_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/8f6c57b2b84f585280dc1c92ffdf37a8_qJOQOkJ7rI8.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/8f6c57b2b84f585280dc1c92ffdf37a8_qJOQOkJ7rI8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/qJOQOkJ7rI8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c71ab6739608958331e51ff59829e895_qJOQOkJ7rI8.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c71ab6739608958331e51ff59829e895_qJOQOkJ7rI8.pdf
 video_metadata:
   youtube_id: qJOQOkJ7rI8
 ---

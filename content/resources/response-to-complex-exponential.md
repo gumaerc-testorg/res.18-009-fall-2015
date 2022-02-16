@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Equations
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Response to Complex Exponential
 uid: 04a1983c-170e-1c98-5d37-6c7b81c114a8
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_1_5_Response_to_Complex_Exponential_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c0c5694d5cfa5d689a923f88f6b61230_kIT2uMxYh6M.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c0c5694d5cfa5d689a923f88f6b61230_kIT2uMxYh6M.vtt
   video_thumbnail_file: https://img.youtube.com/vi/kIT2uMxYh6M/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/e85a73c811da1d59b114d798b025c494_kIT2uMxYh6M.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/e85a73c811da1d59b114d798b025c494_kIT2uMxYh6M.pdf
 video_metadata:
   youtube_id: kIT2uMxYh6M
 ---

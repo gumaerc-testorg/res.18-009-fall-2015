@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Fourier and Laplace Transforms
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Wave Equation
 uid: a9ffc5f7-8326-26f6-b734-379e7b908087
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_8_4_WaveEquation_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/5194b47f589351d1b0377030fd4ec176_9TQCKWWAVjM.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/5194b47f589351d1b0377030fd4ec176_9TQCKWWAVjM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9TQCKWWAVjM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/88829ad12d4bcc3085f7c3c78c58b906_9TQCKWWAVjM.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/88829ad12d4bcc3085f7c3c78c58b906_9TQCKWWAVjM.pdf
 video_metadata:
   youtube_id: 9TQCKWWAVjM
 ---

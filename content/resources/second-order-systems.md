@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Eigenvalues and Eigenvectors
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Second Order Systems
 uid: 735ba299-6423-3444-dea7-6e3c95724bfa
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_6_5b_SecondOrderSystems_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/641da8c0b0415cd7b57924d8ba070b20_Ku2zZ5Vfpzo.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/641da8c0b0415cd7b57924d8ba070b20_Ku2zZ5Vfpzo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Ku2zZ5Vfpzo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/1db9614ecb5661c2f5a27b1c5867cabd_Ku2zZ5Vfpzo.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/1db9614ecb5661c2f5a27b1c5867cabd_Ku2zZ5Vfpzo.pdf
 video_metadata:
   youtube_id: Ku2zZ5Vfpzo
 ---

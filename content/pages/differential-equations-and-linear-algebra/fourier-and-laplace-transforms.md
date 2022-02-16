@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Differential Equations and Linear Algebra
+parent_type: SupplementalResourceSection
 parent_uid: 75be5942-86fc-6182-0f93-147523356fe2
 title: Fourier and Laplace Transforms
 uid: 078d9ec2-bb30-63bb-722a-fd2a85326f18

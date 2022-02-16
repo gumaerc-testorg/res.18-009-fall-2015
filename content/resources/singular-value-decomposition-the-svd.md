@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Applied Mathematics and ATA
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Singular Value Decomposition (the SVD)
 uid: c732f967-fb88-e87a-f1ad-37479a69de27
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_7_2b_SVD_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/771f7d8623a057129f17c7e1cfb2cd6a_mBcLRGuAFUk.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/771f7d8623a057129f17c7e1cfb2cd6a_mBcLRGuAFUk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mBcLRGuAFUk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/0474259a3b114b4c091fbabb8a6be550_mBcLRGuAFUk.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/0474259a3b114b4c091fbabb8a6be550_mBcLRGuAFUk.pdf
 video_metadata:
   youtube_id: mBcLRGuAFUk
 ---

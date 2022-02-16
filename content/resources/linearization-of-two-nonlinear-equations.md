@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Graphical and Numerical Methods
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Linearization of two nonlinear equations
 uid: 6f15ea64-545c-5dc2-327a-d9d7b48fefb0
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_3_3b_LinearizationTwoEquations_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/fe798c4479f556b5a5e8040838044403_N6pc8Axv3Gs.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/fe798c4479f556b5a5e8040838044403_N6pc8Axv3Gs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/N6pc8Axv3Gs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/f429afe4d8868d2530fd337e05c67bee_N6pc8Axv3Gs.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/f429afe4d8868d2530fd337e05c67bee_N6pc8Axv3Gs.pdf
 video_metadata:
   youtube_id: N6pc8Axv3Gs
 ---

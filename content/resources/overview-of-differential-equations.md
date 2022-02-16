@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Introduction
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Overview of Differential Equations
 uid: fe99458d-8296-2d25-5896-064ac250f0ad
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_1_1_Overview_of_Differential_Equations_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/601ef4bfb1c651a4a0d0d673d565eb7e_ghjOS7Q82s0.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/601ef4bfb1c651a4a0d0d673d565eb7e_ghjOS7Q82s0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ghjOS7Q82s0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/b52865375064879ab4ba07f26e4d4725_ghjOS7Q82s0.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/b52865375064879ab4ba07f26e4d4725_ghjOS7Q82s0.pdf
 video_metadata:
   youtube_id: ghjOS7Q82s0
 ---

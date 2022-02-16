@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Solving ODEs in MATLAB
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Tumbling Box
 uid: 9605f7f5-3659-6cda-c73f-c74f9e6554a4
 video_files:
   archive_url: https://archive.org/download/MITRES18-009F15/MITRES18-009F15_odes_10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/0d371e5210815fea9a994805e475186c_ttCKLZ2fWWE.vtt
+  video_captions_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/0d371e5210815fea9a994805e475186c_ttCKLZ2fWWE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ttCKLZ2fWWE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c84277f92c196dc9f1483f6b0b819166_ttCKLZ2fWWE.pdf
+  video_transcript_file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/c84277f92c196dc9f1483f6b0b819166_ttCKLZ2fWWE.pdf
 video_metadata:
   youtube_id: ttCKLZ2fWWE
 ---
