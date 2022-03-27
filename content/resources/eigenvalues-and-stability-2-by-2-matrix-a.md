@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Eigenvalues and Stability: 2 by 2 Matrix, A'
 uid: 9ff45c5f-6c4f-b29f-c56b-e8dc2dd686cb
 video_files:
