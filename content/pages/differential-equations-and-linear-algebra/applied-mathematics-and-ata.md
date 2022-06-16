@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes fours videos about Applied Mathematics and ATA.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

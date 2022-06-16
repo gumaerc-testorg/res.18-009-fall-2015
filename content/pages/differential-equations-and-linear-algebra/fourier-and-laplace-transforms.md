@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes five videos about Fourier and Laplace Transforms.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

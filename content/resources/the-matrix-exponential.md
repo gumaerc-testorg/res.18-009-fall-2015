@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Eigenvalues and Eigenvectors
@@ -28,3 +29,6 @@ video_metadata:
 Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.4
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

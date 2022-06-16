@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/cf6c6b41541a5595a147dc1f33652e95_aW-e04zwTnc.vtt
+file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/cf6c6b41541a5595a147dc1f33652e95_aW-e04zwTnc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

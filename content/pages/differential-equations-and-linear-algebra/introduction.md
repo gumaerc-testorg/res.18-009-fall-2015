@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes two videos with an overview of Calculus in general
+  and Differential Equations in particular.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

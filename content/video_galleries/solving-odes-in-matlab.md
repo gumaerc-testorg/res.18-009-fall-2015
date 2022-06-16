@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: In this collection of 12 videos, Cleve Moler explores the MATLAB ODE
+  suite through examples and exercises.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

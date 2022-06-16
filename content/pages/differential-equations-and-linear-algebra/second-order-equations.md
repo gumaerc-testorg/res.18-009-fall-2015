@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes thirteen videos about Second Order Equations.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
