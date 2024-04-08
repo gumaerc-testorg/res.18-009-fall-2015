@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '35610339'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** The wave equation shows how waves move along the x axis, starting from a given wave shape and its velocity. There can be fixed endpoints as with a violin string.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.4
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 8.4
 
 **Instructor:** Prof. Gilbert Strang
 

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '50731363'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** A positive definite matrix has positive eigenvalues, positive pivots, positive determinants, and positive energy.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 7.2
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 7.2
 
 **Instructor:** Prof. Gilbert Strang
 

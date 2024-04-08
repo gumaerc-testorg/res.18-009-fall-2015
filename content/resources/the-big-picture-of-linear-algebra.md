@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '37332957'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** A matrix produces four subspaces: column space, row space (same dimension), the space of vectors perpendicular to all rows (the nullspace), and the space of vectors perpendicular to all columns.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 5.5
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 5.5
 
 **Instructor:** Prof. Gilbert Strang
 

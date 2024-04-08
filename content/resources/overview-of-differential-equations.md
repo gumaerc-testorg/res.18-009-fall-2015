@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '32954020'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** Differential equations connect the slope of a graph to its height. Slope = height, slope = -height, slope = 2t times height: all linear. Slope = (height)2 is nonlinear.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.1
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.1
 
 **Instructor:** Prof. Gilbert Strang
 

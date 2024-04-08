@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '52397051'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** Transform each term in the linear differential equation to create an algebra problem. You can transform the algebra solution back to the ODE solution.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.7
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.7
 
 **Instructor:** Prof. Gilbert Strang
 

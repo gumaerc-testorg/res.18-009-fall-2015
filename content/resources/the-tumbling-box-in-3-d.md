@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '52864560'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** A box in the air can rotate stably around its shortest and longest axes. Around the middle axis it tumbles wildly.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.3d
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 3.3d
 
 **Instructor:** Prof. Gilbert Strang
 

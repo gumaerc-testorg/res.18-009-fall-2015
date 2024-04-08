@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '32993952'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** Around every circle, the solution to Laplace's equation is a Fourier series with coefficients proportional to _r{{< sup "n" >}}_. On the boundary circle, the given boundary values determine those coefficients.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.1c
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 8.1c
 
 **Instructor:** Prof. Gilbert Strang
 

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '38715290'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** Current flowing around an RLC loop solves a linear equation with coefficients _L_ (inductance), _R_ (resistance), and _1/C_ (_C_ = capacitance).
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.5
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.5
 
 **Instructor:** Prof. Gilbert Strang
 
