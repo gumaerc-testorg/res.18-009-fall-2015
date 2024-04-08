@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '32849564'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** To solve a linear first order equation, multiply each input by its growth factor and integrate those outputs.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.4d
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.4d
 
 **Instructor:** Prof. Gilbert Strang
 

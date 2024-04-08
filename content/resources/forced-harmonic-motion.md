@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '36434193'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** When the forcing is a sinusoidal input, like a cosine, one particular solution has the same form. But if the forcing frequency equals the natural frequency there is resonance.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.1b
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.1b
 
 **Instructor:** Prof. Gilbert Strang
 

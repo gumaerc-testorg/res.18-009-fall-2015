@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '34495069'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** The sum rule, product rule, and chain rule produce new derivatives from known derivatives. The Fundamental Theorem of Calculus says that the integral inverts the derivative.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.2
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.2
 
 **Instructor:** Prof. Gilbert Strang
 

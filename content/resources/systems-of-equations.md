@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '18725181'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Descriptions:** An ordinary differential equation involving higher order derivatives is rewritten as a vector system involving only first order derivatives. The classic Van der Pol nonlinear oscillator is provided as an example. The VdP equation becomes stiff as the parameter is increased.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "52878375-e32d-4da5-bb65-644d056f2e25" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

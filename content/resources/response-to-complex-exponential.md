@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '30169078'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -27,7 +28,7 @@ video_metadata:
 
 **Description:** For linear equations, the solution for a cosine input is the real part of the solution for a complex exponential input. That complex solution has magnitude G (the gain).
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.5
+Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.5
 
 **Instructor:** Prof. Gilbert Strang
 
