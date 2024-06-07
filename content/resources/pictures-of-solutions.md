@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The direction field has an arrow with slope at each point coming from the differential equation. Arrows with the same slope lie along an "isocline".
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 3.1
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.1
 
 **Instructor:** Prof. Gilbert Strang
 

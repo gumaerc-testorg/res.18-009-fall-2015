@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** For the oscillation equation with no damping and no forcing, all solutions share the same natural frequency.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.1
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.1
 
 **Instructor:** Prof. Gilbert Strang
 

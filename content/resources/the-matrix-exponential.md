@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The shortest form of the solution uses the matrix exponential multiplying the starting vector (the initial condition).
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 6.4
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.4
 
 **Instructor:** Prof. Gilbert Strang
 

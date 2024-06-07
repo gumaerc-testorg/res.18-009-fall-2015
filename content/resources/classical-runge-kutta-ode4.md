@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** ODE4 implements the classic Runge-Kutta method, which is the most widely used numerical method for ODEs over the past 100 years. Its major shortcoming is the lack of an error estimate. A simple model of the growth of a flame is an example that is used here and in later videos.
 
-{{% resource_link "52878375-e32d-4da5-bb65-644d056f2e25" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
+[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 
 **Instructor:** Cleve Moler
 

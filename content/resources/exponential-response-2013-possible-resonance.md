@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Resonance occurs when the natural frequency matches the forcing frequency—equal exponents from inside and outside.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.4
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.4
 
 **Instructor:** Prof. Gilbert Strang
 

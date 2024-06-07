@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/57370db616ad207f8ff91846dd71bf4a_NmntYoB1uJg.pdf
+file_size: 27158
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

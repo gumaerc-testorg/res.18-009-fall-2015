@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The eigenvectors remain in the same direction when multiplied by the matrix. Subtracting an eigenvalue from the diagonal leaves a singular matrix: determinant zero. An _n_ by _n_ matrix has _n_ eigenvalues.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 6.1
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.1
 
 **Instructor:** Prof. Gilbert Strang
 
