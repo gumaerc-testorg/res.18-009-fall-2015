@@ -28,7 +28,7 @@ video_metadata:
 
 **Descriptions:** The Lorenz chaotic attractor was discovered by Edward Lorenz in 1963 when he was investigating a simplified model of atmospheric convection. It is a nonlinear system of three differential equations. With the most commonly used values of three parameters, there are two unstable critical points. The solutions remain bounded, but orbit chaotically around these two points. The program "lorenzgui" provides an app for investigating the Lorenz attractor. The resulting 3-D plot looks like a butterfly.
 
-{{% resource_link "52878375-e32d-4da5-bb65-644d056f2e25" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
+[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 
 **Instructor:** Cleve Moler
 

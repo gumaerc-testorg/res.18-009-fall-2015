@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The heat equation starts from a temperature distribution at _t_ = 0 and follows it as it quickly becomes smooth.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 8.3
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.3
 
 **Instructor:** Prof. Gilbert Strang
 

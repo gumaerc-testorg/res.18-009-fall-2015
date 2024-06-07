@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A second order equation can change from two initial conditions to boundary conditions at two points.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 7.3
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 7.3
 
 **Instructor:** Prof. Gilbert Strang
 

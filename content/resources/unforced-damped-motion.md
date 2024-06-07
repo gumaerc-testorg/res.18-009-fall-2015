@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** With constant coefficients in a differential equation, the basic solutions are exponentials. The exponent solves a simple equation.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.3
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.3
 
 **Instructor:** Prof. Gilbert Strang
 

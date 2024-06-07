@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** ODE23 compares methods of order two and three to automatically choose the step size and maintain a specified accuracy. It is the simplest MATLAB{{< sup "®" >}} solver that has modern features such as automatic error estimate and continuous interpolant. ODE23 is suitable for coarse accuracy requirements such as computer graphics.
 
-{{% resource_link "52878375-e32d-4da5-bb65-644d056f2e25" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
+[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 
 **Instructor:** Cleve Moler
 

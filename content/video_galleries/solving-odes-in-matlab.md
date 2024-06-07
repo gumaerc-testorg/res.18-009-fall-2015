@@ -27,7 +27,7 @@ videos:
 Solving ODEs in MATLAB{{< sup "®" >}}
 -------------------------------------
 
-{{% resource_link "ae8fc284-a0ba-4391-86e3-e0c16117f542" "Cleve Moler" %}} introduces computation for differential equations and explains the MATLAB ODE suite and its mathematical background. The video series starts with Euler method and builds up to Runge Kutta and includes hands-on MATLAB exercises.
+[Cleve Moler](http://www.mathworks.com/company/aboutus/founders/clevemoler.html) introduces computation for differential equations and explains the MATLAB ODE suite and its mathematical background. The video series starts with Euler method and builds up to Runge Kutta and includes hands-on MATLAB exercises.
 
 {{< video-gallery "8ee92c27-f02b-fd86-d262-9f4ce23755ef" >}}
 

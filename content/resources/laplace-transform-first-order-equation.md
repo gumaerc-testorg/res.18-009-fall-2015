@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Transform each term in the linear differential equation to create an algebra problem. You can transform the algebra solution back to the ODE solution.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.7
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.7
 
 **Instructor:** Prof. Gilbert Strang
 
