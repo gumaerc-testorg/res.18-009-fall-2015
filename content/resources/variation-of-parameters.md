@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Combine null solutions to find a particular solution for any right hand side. But it may involve a difficult integral.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.6c
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.6c
 
 **Instructor:** Prof. Gilbert Strang
 

@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** For a linear equation with exponential input from outside and exponential growth from inside, the solution is a combination of two exponentials.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.4b
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.4b
 
 **Instructor:** Prof. Gilbert Strang
 

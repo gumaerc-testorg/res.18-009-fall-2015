@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The impulse response is the solution when the force is an impulse (a delta function). This also solves a null equation (no force) with a nonzero initial condition.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 2.3c
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.3c
 
 **Instructor:** Prof. Gilbert Strang
 

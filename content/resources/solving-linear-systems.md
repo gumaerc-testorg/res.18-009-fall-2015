@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** An eigenvalue / eigenvector pair leads to a solution to a constant coefficient system of differential equations. Combinations of those solutions lead to all solutions.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 6.3
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.3
 
 **Instructor:** Prof. Gilbert Strang
 

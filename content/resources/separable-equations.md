@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Separable equations can be solved by two separate integrations, one in _t_ and the other in _y_.
 
-Related section in {{% resource_link "e1ce1139-62a1-4906-8fe8-2fe01ee49bdc" "textbook" %}}: 1.8
+Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.8
 
 **Instructor:** Prof. Gilbert Strang
 
