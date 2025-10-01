@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Symmetric matrices have _n_ perpendicular eigenvectors and _n_ real eigenvalues.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.5
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 6.5
 
 **Instructor:** Prof. Gilbert Strang
 

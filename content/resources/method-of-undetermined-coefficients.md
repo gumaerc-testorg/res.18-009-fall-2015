@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** With constant coefficients and special forcing terms (powers of _t_, cosines / sines, exponentials), a particular solution has this same form.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.6
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 2.6
 
 **Instructor:** Prof. Gilbert Strang
 

@@ -28,7 +28,7 @@ video_metadata:
 
 **Descriptions:** The MATLAB{{< sup "®" >}} documentation provides two charts summarizing the features of each of the seven functions in the MATLAB ODE suite.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "94a1975d-ac36-4d4c-872b-6516e1d66ed1" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

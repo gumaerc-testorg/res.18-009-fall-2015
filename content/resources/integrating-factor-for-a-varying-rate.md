@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The integral of a varying interest rate provides the exponent in the growing solution (the bank balance).
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.6b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 1.6b
 
 **Instructor:** Prof. Gilbert Strang
 

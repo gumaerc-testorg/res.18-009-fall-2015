@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Imaginary exponents with pure oscillation provide a “center” in the phase plane. The point (position, velocity) travels forever around an ellipse.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.2b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.2b
 
 **Instructor:** Prof. Gilbert Strang
 

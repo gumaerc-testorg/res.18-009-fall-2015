@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The SVD factors each matrix into an orthogonal matrix times a diagonal matrix (the singular value) times another orthogonal matrix: Rotation times stretch times rotation.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 7.2b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 7.2b
 
 **Instructor:** Prof. Gilbert Strang
 

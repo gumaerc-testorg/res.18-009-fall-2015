@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** With two equations, the two linearized equations use the 2 by 2 matrix of partial derivatives of the right hand sides.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.3b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.3b
 
 **Instructor:** Prof. Gilbert Strang
 

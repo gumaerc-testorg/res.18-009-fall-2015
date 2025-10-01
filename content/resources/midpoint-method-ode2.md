@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** ODE2 implements a midpoint method with two function evaluations per step. This method is twice as accurate as Euler's method. A nonlinear equation defining the sine function provides an example. An exercise involves implementing a related trapezoid method.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "94a1975d-ac36-4d4c-872b-6516e1d66ed1" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Two equations with a constant matrix are stable (solutions approach zero) when the trace is negative and the determinant is positive.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.3c
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.3c
 
 **Instructor:** Prof. Gilbert Strang
 

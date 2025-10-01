@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A Fourier series separates a periodic function into a combination (infinite) of all cosine and since basis functions.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.1
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 8.1
 
 **Instructor:** Prof. Gilbert Strang
 

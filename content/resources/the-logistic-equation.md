@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** When competition slows down growth and makes the equation nonlinear, the solution approaches a steady state.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.7
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 1.7
 
 **Instructor:** Prof. Gilbert Strang
 

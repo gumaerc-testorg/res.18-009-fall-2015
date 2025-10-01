@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** When the input force is an impulse, the output is the impulse response. For all inputs the response is a "convolution" with the impulse response.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.7c
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 2.7c
 
 **Instructor:** Prof. Gilbert Strang
 

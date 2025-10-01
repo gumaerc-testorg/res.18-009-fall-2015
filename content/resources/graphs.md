@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A graph has nodes connected by edges (other edges can be missing). This is a useful model for the Internet, the brain, pipeline systems, and much more.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 5.6
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 5.6
 
 **Instructor:** Prof. Gilbert Strang
 
