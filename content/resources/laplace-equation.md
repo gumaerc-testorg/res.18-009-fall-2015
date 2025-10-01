@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Laplace's partial differential equation describes temperature distribution inside a circle or a square or any plane region.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 7.4
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 7.4
 
 **Instructor:** Prof. Gilbert Strang
 

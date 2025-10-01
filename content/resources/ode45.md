@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** ODE45 is usually the function of choice among the ODE solvers. It compares methods of orders four and five to estimate error and determine step size. ODE45 is so accurate that its default behavior is to use its interpolant to provide results at intermediate points.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "94a1975d-ac36-4d4c-872b-6516e1d66ed1" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** This method is also successful for forces and solutions equal to polynomials times exponentials. Substitute into the equation!
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.6b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 2.6b
 
 **Instructor:** Prof. Gilbert Strang
 

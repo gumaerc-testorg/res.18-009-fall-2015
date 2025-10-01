@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Vectors are a basis for a subspace if their combinations span the whole subspace and are independent: no basis vector is a combination of the others. Dimension = number of basis vectors.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 5.4
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 5.4
 
 **Instructor:** Prof. Gilbert Strang
 

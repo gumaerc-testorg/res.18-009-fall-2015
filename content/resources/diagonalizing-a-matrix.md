@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A matrix can be diagonalized if it has _n_ independent eigenvectors. The diagonal matrix Λ is the eigenvalue matrix.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.2
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 6.2
 
 **Instructor:** Prof. Gilbert Strang
 
