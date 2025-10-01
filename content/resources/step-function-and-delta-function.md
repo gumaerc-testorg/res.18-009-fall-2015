@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A unit step function jumps from 0 to 1. Its slope is a delta function: Zero everywhere except infinite at the jump.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.4e
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 1.4e
 
 **Instructor:** Prof. Gilbert Strang
 

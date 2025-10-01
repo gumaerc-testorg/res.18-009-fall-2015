@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Solutions to second order equations can approach infinity or zero. Saddle points have a positive and also a negative exponent or eigenvalue.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.2
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.2
 
 **Instructor:** Prof. Gilbert Strang
 

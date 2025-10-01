@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A damped forced equation has a sinusoidal solution with exponential decay. The damping ratio provides insight into the null solutions.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.4b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 2.4b
 
 **Instructor:** Prof. Gilbert Strang
 

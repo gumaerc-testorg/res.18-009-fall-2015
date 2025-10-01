@@ -27,7 +27,7 @@ video_metadata:
 
 **Descriptions:** The classic Lotka-Volterra model of predator-prey competition, which describes interactions between foxes and rabbits, or big fish and little fish, is the foundation of mathematical ecology. It has also been applied to many other fields, including economics. The model is a nonlinear system of two equations, where one species grows exponentially and the other decays exponentially in the absence of the other. The one nonzero critical point is stable. All solutions are periodic. The program "predprey" provides an app for studying the model.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "94a1975d-ac36-4d4c-872b-6516e1d66ed1" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

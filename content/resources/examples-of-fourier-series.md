@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Even functions use only cosines and odd functions use only sines. The coefficients in the Fourier series come from integrals.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.1b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 8.1b
 
 **Instructor:** Prof. Gilbert Strang
 

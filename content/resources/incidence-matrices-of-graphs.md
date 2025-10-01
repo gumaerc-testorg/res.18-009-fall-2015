@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The incidence matrix has a row for every edge, containing -1 and +1 to show which two nodes are connected by that edge.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 5.6b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 5.6b
 
 **Instructor:** Prof. Gilbert Strang
 

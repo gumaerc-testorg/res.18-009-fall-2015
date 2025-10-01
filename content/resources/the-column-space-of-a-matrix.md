@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Capturing all combinations of the columns gives the column space of the matrix. It is a subspace (such as a plane).
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 5.1
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 5.1
 
 **Instructor:** Prof. Gilbert Strang
 

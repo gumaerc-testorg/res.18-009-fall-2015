@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The digits in the name of a MATLAB{{< sup "®" >}} ODE solver reflect its order and resulting accuracy. A method is said to have order p if cutting the step size in half reduces the error in one step by a factor of two to the power p+1.
 
-[Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
+{{% resource_link "94a1975d-ac36-4d4c-872b-6516e1d66ed1" "Related MATLAB code files can be downloaded from MATLAB Central" %}}
 
 **Instructor:** Cleve Moler
 

@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A second order equation gives two first order equations. The matrix becomes a companion matrix (triangular).
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.2c
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.2c
 
 **Instructor:** Prof. Gilbert Strang
 

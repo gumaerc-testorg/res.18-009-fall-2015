@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** The sum rule, product rule, and chain rule produce new derivatives from known derivatives. The Fundamental Theorem of Calculus says that the integral inverts the derivative.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.2
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 1.2
 
 **Instructor:** Prof. Gilbert Strang
 

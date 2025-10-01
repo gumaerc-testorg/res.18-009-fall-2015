@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** Steady state solutions can be stable or unstable—a simple test decides.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 1.7c
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 1.7c
 
 **Instructor:** Prof. Gilbert Strang
 

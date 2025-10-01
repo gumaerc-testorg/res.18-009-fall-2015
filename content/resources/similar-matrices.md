@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** If _A_ and _B_ are "similar" then _B_ has the same eigenvalues as _A_.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 6.4b
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 6.4b
 
 **Instructor:** Prof. Gilbert Strang
 

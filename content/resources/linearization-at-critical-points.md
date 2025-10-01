@@ -28,7 +28,7 @@ video_metadata:
 
 **Description:** A critical point is a constant solution to the differential equation. The slope of the right hand side decides stability or instability.
 
-Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 3.3
+Related section in {{% resource_link "5c12b6b2-2d3b-45c1-931e-67a851692783" "textbook" %}}: 3.3
 
 **Instructor:** Prof. Gilbert Strang
 
